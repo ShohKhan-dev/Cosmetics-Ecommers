@@ -1,0 +1,1 @@
+from product.serializers.attribute import SelectAttributeValue
